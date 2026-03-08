@@ -20,15 +20,7 @@ Nov 2025 – Feb 2026
 - Deployed applications on AWS EC2 for continuous delivery.
 - Configured IAM roles and automated deployment workflows.
 
-## Projects
-
-**Cricket Ground Booking Platform**  
-Full-stack web application for booking cricket grounds with real-time slot availability and calendar scheduling.  
-Stack: React, Express.js, PostgreSQL, Tailwind CSS.
-
-**DevOps Automation Project (AWS)**  
-Implemented an automated CI/CD pipeline for deploying a static web application using AWS services.
-
+  
 ## Education
 
 **Bachelor of Computer Applications (BCA)**  
