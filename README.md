@@ -56,6 +56,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SapotaDA&theme=dark&hide_border=false&layout=compact)
 
 ---
-
-# 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=SapotaDA&icon=0&color=0)](https://visitcount.itsvg.in)
